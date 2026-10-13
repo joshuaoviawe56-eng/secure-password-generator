@@ -1,2 +1,2 @@
 # secure-password-generator
-My cybersecurity learning journey, featuring notes, labs, projects, and hands-on practice.
+A secure password generator built to create strong and customizable passwords.
